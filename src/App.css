@@ -50,6 +50,7 @@
   font-family: Times New Roman;
   margin: 10px ;
   background-color: #b54b12;
+  border-radius: 10px;
 }
 
 .press {
@@ -58,4 +59,5 @@
   margin: 10px;
   background-color: #fff;
   font-size: 20px;
+  border-radius: 10px;
 }
